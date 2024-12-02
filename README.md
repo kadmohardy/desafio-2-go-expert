@@ -10,7 +10,7 @@ Entrar na pasta /server e executar o comando
 go run main.go 60135040
 ```
 
-Logs do Sistem
+Logs do Sistema
 
 ```
 Starting search for CEP...
